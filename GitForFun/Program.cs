@@ -13,4 +13,6 @@ public class JokeTime
 {
     private string JokeStart{get; set;}
     private  string Response{get; set;}
+
+    public int Funniness {get; set;}
 }
