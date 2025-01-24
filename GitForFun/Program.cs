@@ -6,4 +6,11 @@ public class Program
     {
         //Comment
     }
+
+}
+
+public class JokeTime
+{
+    private string JokeStart{get; set;}
+    private  string Response{get; set;}
 }
