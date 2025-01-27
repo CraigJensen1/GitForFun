@@ -4,9 +4,10 @@ namespace GitForFun
 {
     public class Tool
     {
-        public string AlternateCase(string input)
+        public string AlternateCasezzz(string input)
         {
             char[] result = new char[input.Length];
+            char[] resultzz = new char[input.Length];
             for (int i = 0; i < input.Length; i++)
             {
                 if (i % 2 == 0)
@@ -17,13 +18,15 @@ namespace GitForFun
             return new string(result);
         }
 
-        public int SumOfEvens(int maxNumber)
+        public int SumOfEvenzzz(int maxNumber)
         {
             int sum = 0;
             for (int i = 1; i <= maxNumber; i++)
             {
                 if (i % 2 == 0)
                     sum += i;
+
+                sum += i;
             }
             return sum;
         }

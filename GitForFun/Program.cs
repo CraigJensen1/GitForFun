@@ -5,15 +5,19 @@ public class Program
     static void Main()
     {
 
+
         Console.WriteLine("Hello World!");
 
 
         Console.WriteLine("Hello World but cooler!");
 
-        //Comment
-        // Jidapa: this is my code
-        // other 2 + 1
+        Console.WriteLine("Hellsdfgsdfgsdfgo World!");
 
+
+        //Comment
+        // Jidapasdfgsdfg: this is my code
+        // othgsdfger 2 + 1
+        //asdfasdf
     }
 
 
@@ -25,13 +29,13 @@ public class JokeTime
     private string JokeStart{get; set;}
     private  string Response{get; set;}
 
-    public int Funniness {get; set;}
+    public int Funninedddss {get; set;}
 
     public JokeTime(string JokeStart, string Response, int Funniness)
     {
         this.JokeStart=JokeStart;
         this.Response=Response;
-        this.Funniness=Funniness;
+        this.Funninedddss=Funniness;
 
     }
 }
