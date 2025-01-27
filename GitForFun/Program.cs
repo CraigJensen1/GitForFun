@@ -11,6 +11,7 @@ public class Program
         // Jidapa: this is my code
         // other 2 + 1
 >>>>>>> 08c5e27743201636ddf11511361081a100c3c3f3
+        //jargan
     }
 
 }
