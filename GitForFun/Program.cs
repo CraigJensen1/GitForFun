@@ -5,7 +5,14 @@ public class Program
     static void Main()
     {
 
-            Console.WriteLine("Hellsdfgsdfgsdfgo World!");
+
+        Console.WriteLine("Hello World!");
+
+
+        Console.WriteLine("Hello World but cooler!");
+
+        Console.WriteLine("Hellsdfgsdfgsdfgo World!");
+
 
         //Comment
         // Jidapasdfgsdfg: this is my code
@@ -29,5 +36,6 @@ public class JokeTime
         this.JokeStart=JokeStart;
         this.Response=Response;
         this.Funninedddss=Funniness;
+
     }
 }
