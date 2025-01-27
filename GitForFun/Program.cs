@@ -13,9 +13,12 @@ public class Program
 
     }
 
-
+    >>>>>>> 08c5e27743201636ddf11511361081a100c3c3f3
+    //jargan
 
 }
+
+    }
 
 public class JokeTime
 {
